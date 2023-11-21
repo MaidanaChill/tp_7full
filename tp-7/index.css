@@ -1,0 +1,19 @@
+main {
+    background-color: #426335;
+    width: 100%;
+}
+
+body {
+    width: 80%;
+    background-color: #747c64;
+    margin: 0 auto;
+}
+
+html {
+    width: 100%;
+    background-color: #415a12;
+}
+
+h2, p{
+    margin: 20px;
+}
